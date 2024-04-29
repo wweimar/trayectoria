@@ -1,0 +1,93 @@
+body {
+    margin: 0%;
+    font-family: "Architects Daughter";
+    font-family: "Josefin Sans", sans-serif;
+    font-family: "Mochiy Pop P One", sans-serif;
+  }
+  body {
+    background-image: url("fondo.jpg");
+    background-size: 1000;
+  }
+
+.titulo1 {
+    font-size: 17px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    height: 60px;
+    padding: 20px 0;
+}
+
+ /* Espacios entre los titulos principales */
+ .elemento1 {
+    
+    width: 2px;
+    height: 90px;
+     /* Margen derecho para separar los elementos */
+  }
+  
+  /*
+  .elemento2 {
+    
+    width: 200px;
+    height: 90px;
+    margin-right: 500px;
+  }*/
+
+  h4 {
+    color: aliceblue;
+  }
+  p {
+    font-family: "Josefin Sans", sans-serif;
+    font-family: "Lato", sans-serif;
+    font-family: "Mochiy Pop P One", sans-serif;
+    font-family: "Montserrat", sans-serif;
+    font-family: "Roboto", sans-serif;
+    font-family: "Rubik", sans-serif;
+    color: aqua;
+    size: 24;
+  }
+
+  h1 { 
+    color: aliceblue;
+  }
+  .texto1 {  
+    margin-right: 8%;
+    background-color: #000000;
+    opacity: 0.9;
+
+  }
+
+ h6 {
+  color: aliceblue;
+ }
+.imagen {
+  margin-left: 200px;
+}
+.letrasfotos {
+  color: aliceblue;
+}
+.imagen2 {
+  display: flex;
+}
+.imagen3 {
+  margin-left: 80px;
+}
+.imagen4 {
+  display: flex;
+}
+
+.cuadrofoto1 {
+margin: 0%;
+
+}
+
+.cuadrofoto2 {
+  margin-left: 100px;
+}
+.imagen5 {
+  margin: 0%;
+}
+.letrasprincipales {
+  color: aqua;
+}
