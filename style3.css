@@ -52,7 +52,7 @@ body {
     color: aliceblue;
   }
   .texto1 {  
-    margin-right: 8%;
+    margin:auto;
     background-color: #000000;
     opacity: 0.9;
 
@@ -62,19 +62,33 @@ body {
   color: aliceblue;
  }
 .imagen {
-  margin-left: 200px;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
 }
 .letrasfotos {
   color: aliceblue;
 }
 .imagen2 {
   display: flex;
+        top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
 }
 .imagen3 {
-  margin-left: 80px;
+      top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
 }
 .imagen4 {
   display: flex;
+        top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
 }
 
 .cuadrofoto1 {
@@ -86,7 +100,10 @@ margin: 0%;
   margin-left: 100px;
 }
 .imagen5 {
-  margin: 0%;
+      top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
 }
 .letrasprincipales {
   color: aqua;
